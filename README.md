@@ -130,4 +130,20 @@ This guide outlines the essential steps to transform a software idea into a prod
 - [Hotjar](https://hotjar.com) - User behavior analytics
 - [Sentry](https://sentry.io) - Error tracking and performance monitoring
 
+## Recommended Books
+
+### Site Reliability Engineering (SRE)
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) - How Google Runs Production Systems
+- [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/) - Practical Ways to Implement SRE
+- [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems/) - Best Practices for Designing, Implementing, and Maintaining Systems
+
+### AI & Machine Learning
+- [Reliable Machine Learning](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106222/) by Cathy Chen - Practical Guide to Building Reliable ML Systems
+- [Prompt Engineering](https://www.oreilly.com/library/view/prompt-engineering/9781098151758/) by Lee Boonstra - Mastering the Art of AI Communication
+- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098151758/) by Chip Huyen - Building and Deploying AI Systems
+- [Agents](https://www.oreilly.com/library/view/agents/9781098151758/) by Julia Wiesinger - Building Autonomous AI Systems
+
+### AI & Society
+- [Co-Intelligence](https://www.penguinrandomhouse.com/books/740665/co-intelligence-by-ethan-mollick/) by Ethan Mollick - Living and Working with AI
+
 Remember: The journey from idea to production is iterative. Be prepared to adapt and improve based on feedback and changing requirements.

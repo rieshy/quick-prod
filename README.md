@@ -4,6 +4,7 @@ This guide outlines the essential steps to transform a software idea into a prod
 
 ## 1. Ideation and Planning
 - Define the problem and solution
+- Describe why do you think it is going to work
 - Identify target users and their needs
 - Create user stories and requirements
 - Set project goals and success metrics
